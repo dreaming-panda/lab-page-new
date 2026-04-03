@@ -1,6 +1,6 @@
 ---
 title: "InfiniAI Lab - Blog"
-layout: publications
+layout: blog
 excerpt: "InfiniAI Lab -- Blog."
 sitemap: false
 permalink: /blog/
