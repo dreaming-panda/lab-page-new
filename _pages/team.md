@@ -71,35 +71,23 @@ permalink: /people/
 {% endif %}
 
 # Alumni
-<div class="row">
-<div class="col-sm-6 clearfix">
-<p><b style="font-size: 18px;">🎓 Visitors and Bachelor/Master Students and Their Next Steps</b></p>
 
-<p><span style="color:#1a73e8; font-weight:bold;">Hanshi Sun (MS)</span><br>
-➡️ Bytedance</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Jian Chen (MS)</span><br>
-➡️ PhD at UCSD</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Haoyun Qin (Undergrad)</span><br>
-➡️ PhD at Princeton University (Gap year at Sakana AI)</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Jingwei Zuo (MS)</span><br>
-➡️ PhD at Rice University</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Vashisth Tiwari (MS)</span><br>
-➡️ PhD at CMU</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Chen Li (MS)</span><br>
-➡️ PhD at CMU</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Yiying Luo (MS)</span><br>
-➡️ PhD at CMU</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Wentao Guo (MS)</span><br>
-➡️ PhD at Princeton University</p>
-
-</div>
+<div class="alumni-container">
+<table class="alumni-table">
+<thead>
+<tr><th>Name</th><th>Role</th><th>Next Step</th></tr>
+</thead>
+<tbody>
+<tr><td>Hanshi Sun</td><td>MS</td><td>Bytedance</td></tr>
+<tr><td>Jian Chen</td><td>MS</td><td>PhD at UCSD</td></tr>
+<tr><td>Haoyun Qin</td><td>Undergrad</td><td>PhD at Princeton University</td></tr>
+<tr><td>Jingwei Zuo</td><td>MS</td><td>PhD at Rice University</td></tr>
+<tr><td>Vashisth Tiwari</td><td>MS</td><td>PhD at CMU</td></tr>
+<tr><td>Chen Li</td><td>MS</td><td>PhD at CMU</td></tr>
+<tr><td>Yiying Luo</td><td>MS</td><td>PhD at CMU</td></tr>
+<tr><td>Wentao Guo</td><td>MS</td><td>PhD at Princeton University</td></tr>
+</tbody>
+</table>
 </div>
 
 

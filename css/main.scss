@@ -479,6 +479,67 @@ firstp {
 	margin-left: 6px;
 }
 
+/* Alumni Table */
+.alumni-container {
+	margin-top: 10px;
+}
+
+.alumni-table {
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 0;
+	border-radius: 6px;
+	overflow: hidden;
+	border: 1px solid #f0d4e4;
+}
+
+.alumni-table thead tr {
+	background: linear-gradient(135deg, #1a1a2e, #16213e);
+}
+
+.alumni-table thead th {
+	color: #f0f0f0;
+	font-size: 13px;
+	font-weight: 600;
+	padding: 10px 16px;
+	border: none;
+	letter-spacing: 0.3px;
+}
+
+.alumni-table thead th:first-child {
+	border-left: 3px solid #ff69b4;
+}
+
+.alumni-table tbody tr {
+	background: #fdf8fb;
+	transition: background 0.2s;
+}
+
+.alumni-table tbody tr:nth-child(even) {
+	background: #f9f2f6;
+}
+
+.alumni-table tbody tr:hover {
+	background: #fce8f1;
+}
+
+.alumni-table tbody td {
+	padding: 9px 16px;
+	font-size: 13px;
+	color: #333;
+	border-top: 1px solid #f0d4e4;
+}
+
+.alumni-table tbody td:first-child {
+	font-weight: 600;
+	color: #1a1a2e;
+}
+
+.alumni-table tbody td:last-child {
+	color: #d63384;
+	font-weight: 500;
+}
+
 /* Team & Publications */
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
 #homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
