@@ -52,20 +52,28 @@ firstp {
 .home-hero {
 	position: relative;
 	text-align: center;
-	padding: 38px 20px 28px;
+	padding: 60px 20px 50px;
 	margin-bottom: 16px;
 	width: 100%;
-	background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+	background: url('../images/universe-bg.jpg') center center / cover no-repeat;
 	border-radius: 0 0 8px 8px;
 	overflow: hidden;
+}
+
+.home-hero::before {
+	content: '';
+	position: absolute;
+	inset: 0;
+	background: rgba(10, 5, 20, 0.55);
+	pointer-events: none;
 }
 
 .hero-grid-bg {
 	position: absolute;
 	inset: 0;
 	background-image:
-		linear-gradient(rgba(255, 105, 180, 0.07) 1px, transparent 1px),
-		linear-gradient(90deg, rgba(255, 105, 180, 0.07) 1px, transparent 1px);
+		linear-gradient(rgba(255, 105, 180, 0.08) 1px, transparent 1px),
+		linear-gradient(90deg, rgba(255, 105, 180, 0.08) 1px, transparent 1px);
 	background-size: 32px 32px;
 	pointer-events: none;
 }
@@ -76,25 +84,27 @@ firstp {
 }
 
 .home-hero h1 {
-	font-size: 28px;
+	font-size: 32px;
 	font-weight: 700;
-	color: #f0f0f0;
-	margin-bottom: 8px;
+	color: #ffffff;
+	margin-bottom: 10px;
 	letter-spacing: 0.5px;
+	text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
 }
 
 .hero-accent {
 	color: #ff69b4;
-	text-shadow: 0 0 18px rgba(255, 105, 180, 0.4);
+	text-shadow: 0 0 24px rgba(255, 105, 180, 0.6), 0 2px 12px rgba(0, 0, 0, 0.5);
 }
 
 .hero-subtitle {
 	font-size: 13px;
-	color: #b0b8c8;
+	color: #d8d0e0;
 	margin-bottom: 0;
 	letter-spacing: 1.5px;
 	text-transform: uppercase;
 	font-weight: 500;
+	text-shadow: 0 1px 6px rgba(0, 0, 0, 0.4);
 }
 
 .hero-subtitle i {
