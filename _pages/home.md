@@ -15,8 +15,17 @@ Her research focuses on efficient AI; specifically, she designs and optimizes al
 
 InfiniAI lab's research focuses on developing *efficient* and *scalable* AI algorithms and systems. Our key areas of focus include:
 
-<ul style="list-style: none; padding-left: 0;">
-  <li style="margin-bottom: 8px; padding: 8px 12px; background: #f8f9fa; border-radius: 4px; border-left: 3px solid #008000;"><i class="fas fa-brain" style="color: #008000"></i>&nbsp; Sparse & Scaling</li>
-  <li style="margin-bottom: 8px; padding: 8px 12px; background: #f8f9fa; border-radius: 4px; border-left: 3px solid #808000;"><i class="fas fa-cogs" style="color: #808000"></i>&nbsp; Scalable Learning</li>
-  <li style="margin-bottom: 8px; padding: 8px 12px; background: #f8f9fa; border-radius: 4px; border-left: 3px solid #000080;"><i class="bi bi-gpu-card" style="color: #000080"></i>&nbsp; Hardware & System</li>
-</ul>
+<div class="research-areas">
+  <div class="research-card">
+    <div class="research-icon"><i class="fas fa-brain"></i></div>
+    <div class="research-label">Sparse & Scaling</div>
+  </div>
+  <div class="research-card">
+    <div class="research-icon"><i class="fas fa-cogs"></i></div>
+    <div class="research-label">Scalable Learning</div>
+  </div>
+  <div class="research-card">
+    <div class="research-icon"><i class="bi bi-gpu-card"></i></div>
+    <div class="research-label">Hardware & System</div>
+  </div>
+</div>

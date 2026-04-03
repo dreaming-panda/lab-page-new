@@ -46,26 +46,63 @@ firstp {
   max-width: 1000px; /* or 950px */
 }
 
+/* ===== Pink Tech Theme ===== */
+
 /* Home Hero */
 .home-hero {
+	position: relative;
 	text-align: center;
-	padding: 30px 20px 10px;
-	margin-bottom: 10px;
-	border-bottom: 2px solid #e9ecef;
+	padding: 38px 20px 28px;
+	margin-bottom: 16px;
 	width: 100%;
+	background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+	border-radius: 0 0 8px 8px;
+	overflow: hidden;
+}
+
+.hero-grid-bg {
+	position: absolute;
+	inset: 0;
+	background-image:
+		linear-gradient(rgba(255, 105, 180, 0.07) 1px, transparent 1px),
+		linear-gradient(90deg, rgba(255, 105, 180, 0.07) 1px, transparent 1px);
+	background-size: 32px 32px;
+	pointer-events: none;
+}
+
+.hero-inner {
+	position: relative;
+	z-index: 1;
 }
 
 .home-hero h1 {
 	font-size: 28px;
 	font-weight: 700;
-	color: #2c3e50;
-	margin-bottom: 6px;
+	color: #f0f0f0;
+	margin-bottom: 8px;
+	letter-spacing: 0.5px;
+}
+
+.hero-accent {
+	color: #ff69b4;
+	text-shadow: 0 0 18px rgba(255, 105, 180, 0.4);
 }
 
 .hero-subtitle {
-	font-size: 15px;
-	color: #6c757d;
+	font-size: 13px;
+	color: #b0b8c8;
 	margin-bottom: 0;
+	letter-spacing: 1.5px;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+
+.hero-subtitle i {
+	color: #ff69b4;
+}
+
+.hero-dot {
+	color: #ff69b4;
 }
 
 .home-content {
@@ -80,12 +117,12 @@ firstp {
 }
 
 #homeid h3 {
-	font-size: 20px;
+	font-size: 19px;
 	font-weight: 600;
-	color: #2c3e50;
-	border-left: 3px solid #3498db;
+	color: #1a1a2e;
+	border-left: 3px solid #ff69b4;
 	padding-left: 10px;
-	margin-top: 20px;
+	margin-top: 22px;
 	margin-bottom: 12px;
 }
 
@@ -106,36 +143,73 @@ firstp {
 	margin-bottom: 6px;
 }
 
+/* Research Area Cards */
+.research-areas {
+	display: flex;
+	gap: 12px;
+	flex-wrap: wrap;
+	margin-top: 10px;
+}
+
+.research-card {
+	flex: 1;
+	min-width: 120px;
+	background: linear-gradient(145deg, #1a1a2e, #16213e);
+	border: 1px solid rgba(255, 105, 180, 0.25);
+	border-radius: 6px;
+	padding: 16px 12px;
+	text-align: center;
+	transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.research-card:hover {
+	border-color: #ff69b4;
+	box-shadow: 0 0 12px rgba(255, 105, 180, 0.2);
+}
+
+.research-icon {
+	font-size: 22px;
+	color: #ff69b4;
+	margin-bottom: 8px;
+}
+
+.research-label {
+	font-size: 13px;
+	font-weight: 600;
+	color: #e0e0e0;
+	letter-spacing: 0.3px;
+}
+
 /* News Panel */
 .news-panel {
-	background: #f8f9fa;
-	border: 1px solid #e9ecef;
+	background: #f9f4f7;
+	border: 1px solid #f0d4e4;
 	border-radius: 6px;
 	padding: 16px;
 }
 
 .news-title {
-	font-size: 17px;
+	font-size: 16px;
 	font-weight: 600;
-	color: #2c3e50;
+	color: #1a1a2e;
 	margin-bottom: 12px;
 	padding-bottom: 8px;
-	border-bottom: 2px solid #3498db;
+	border-bottom: 2px solid #ff69b4;
 }
 
 .news-title i {
 	margin-right: 6px;
-	color: #3498db;
+	color: #ff69b4;
 }
 
 .news-list {
-	max-height: 480px;
+	max-height: 420px;
 	overflow-y: auto;
 }
 
 .news-item {
 	padding: 8px 0;
-	border-bottom: 1px solid #e9ecef;
+	border-bottom: 1px solid #f0d4e4;
 	font-size: 13px;
 	line-height: 1.5;
 }
@@ -147,7 +221,7 @@ firstp {
 .news-date {
 	display: block;
 	font-size: 11px;
-	color: #6c757d;
+	color: #c06090;
 	font-weight: 600;
 	margin-bottom: 2px;
 }
@@ -164,11 +238,12 @@ firstp {
 }
 
 .news-headline a {
-	color: #3498db;
+	color: #d63384;
 	text-decoration: none;
 }
 
 .news-headline a:hover {
+	color: #ff69b4;
 	text-decoration: underline;
 }
 
@@ -177,8 +252,45 @@ firstp {
 }
 
 .news-list::-webkit-scrollbar-thumb {
-	background: #ccc;
+	background: #e0a8c8;
 	border-radius: 2px;
+}
+
+/* Navbar pink accent */
+.navbar-default {
+	background-color: #1a1a2e;
+	border-color: rgba(255, 105, 180, 0.15);
+}
+
+.navbar-default .navbar-brand {
+	color: #f0f0f0;
+}
+
+.navbar-default .navbar-brand:hover {
+	color: #ff69b4;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #c8c8d8;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+	color: #ff69b4;
+	background-color: transparent;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: #ff69b4;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #ff69b4;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+	background-color: rgba(255, 105, 180, 0.1);
 }
 
 /* Team & Publications */
