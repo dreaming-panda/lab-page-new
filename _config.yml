@@ -9,8 +9,8 @@
 title: InfiniAI Lab
 email: your-email@domain.com
 description: Website of InfiniAI Lab.
-baseurl: ""
-url: ""
+baseurl: "/lab-page-new"
+url: "https://dreaming-panda.github.io"
 
 include:
   - .htaccess
