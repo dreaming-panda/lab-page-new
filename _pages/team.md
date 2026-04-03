@@ -8,7 +8,7 @@ permalink: /people/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)](https://keroro824.github.io/lab-page/vacancies) **!**
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -20,7 +20,7 @@ permalink: /people/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="https://keroro824.github.io/lab-page/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
