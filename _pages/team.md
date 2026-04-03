@@ -81,7 +81,7 @@ permalink: /people/
 <p><span style="color:#1a73e8; font-weight:bold;">Jian Chen (MS)</span><br>
 ➡️ PhD at UCSD</p>
 
-<p><span style="color:#1a73e8; font-weight:bold;">Haoyun Chen (Undergrad)</span><br>
+<p><span style="color:#1a73e8; font-weight:bold;">Haoyun Qin (Undergrad)</span><br>
 ➡️ PhD at Princeton University (Gap year at Sakana AI)</p>
 
 <p><span style="color:#1a73e8; font-weight:bold;">Jingwei Zuo (MS)</span><br>
