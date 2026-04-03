@@ -540,6 +540,120 @@ firstp {
 	}
 }
 
+/* ===== Blog Page ===== */
+
+.blog-header {
+	text-align: center;
+	padding: 30px 0 20px;
+	margin-bottom: 20px;
+	border-bottom: 2px solid #f0d4e4;
+}
+
+.blog-header h1 {
+	font-size: 28px;
+	font-weight: 700;
+	color: #1a1a2e;
+	margin: 0;
+}
+
+.blog-header h1 i {
+	color: #ff69b4;
+	margin-right: 8px;
+}
+
+.blog-entry {
+	background: #fdf8fb;
+	border: 1px solid #f0d4e4;
+	border-left: 4px solid #ff69b4;
+	border-radius: 6px;
+	padding: 18px 22px;
+	margin-bottom: 14px;
+	transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.blog-entry:hover {
+	box-shadow: 0 3px 12px rgba(255, 105, 180, 0.12);
+	border-left-color: #d63384;
+}
+
+.blog-title {
+	font-size: 17px;
+	font-weight: 700;
+	margin: 0 0 6px 0;
+	line-height: 1.35;
+}
+
+.blog-title a {
+	color: #1a1a2e;
+	text-decoration: none;
+}
+
+.blog-title a:hover {
+	color: #d63384;
+}
+
+.blog-authors {
+	font-size: 12px;
+	color: #888;
+	margin-bottom: 8px;
+}
+
+.blog-authors i {
+	color: #ff69b4;
+	margin-right: 4px;
+}
+
+.blog-desc {
+	font-size: 13px;
+	color: #555;
+	line-height: 1.55;
+	margin-bottom: 12px;
+}
+
+.blog-links {
+	display: flex;
+	gap: 8px;
+}
+
+.blog-btn {
+	display: inline-flex;
+	align-items: center;
+	font-size: 12px;
+	font-weight: 600;
+	padding: 5px 14px;
+	border-radius: 16px;
+	text-decoration: none;
+	transition: all 0.2s;
+}
+
+.blog-btn i {
+	margin-right: 5px;
+	font-size: 11px;
+}
+
+.blog-btn-primary {
+	background: linear-gradient(135deg, #d63384, #ff69b4);
+	color: #fff;
+}
+
+.blog-btn-primary:hover {
+	box-shadow: 0 2px 8px rgba(255, 105, 180, 0.3);
+	color: #fff;
+	text-decoration: none;
+}
+
+.blog-btn-outline {
+	background: transparent;
+	color: #d63384;
+	border: 1px solid #d63384;
+}
+
+.blog-btn-outline:hover {
+	background: #d63384;
+	color: #fff;
+	text-decoration: none;
+}
+
 /* Team & Publications */
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
 #homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }

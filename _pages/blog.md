@@ -1,48 +1,25 @@
 ---
-title: "InfiniAI Lab - Publications"
-layout: gridlay
-excerpt: "InfiniAI Lab -- Publications."
+title: "InfiniAI Lab - Blog"
+layout: publications
+excerpt: "InfiniAI Lab -- Blog."
 sitemap: false
 permalink: /blog/
 ---
 
+<div class="blog-header" markdown="0">
+<h1><i class="fas fa-flask"></i> Research Highlights</h1>
+</div>
 
-# Blog
-<br>
-{% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="93%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.blog }}">Read More</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
+<div class="blog-entry" markdown="0">
+<h3 class="blog-title"><a href="{{ publi.link.blog }}">{{ publi.title }}</a></h3>
+<p class="blog-authors"><i class="fas fa-users"></i> {{ publi.authors }}</p>
+<p class="blog-desc">{{ publi.description }}</p>
+<div class="blog-links">
+<a href="{{ publi.link.blog }}" class="blog-btn blog-btn-primary"><i class="fas fa-book-open"></i> Read More</a>
+<a href="{{ publi.link.url }}" class="blog-btn blog-btn-outline"><i class="fas fa-file-alt"></i> Paper</a>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
 </div>
-{% endif %}
-
 {% endif %}
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
