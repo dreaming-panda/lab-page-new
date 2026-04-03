@@ -90,7 +90,7 @@ permalink: /people/
 </div>
 <div class="alumni-card">
 <span class="alumni-name">Jingwei Zuo</span>
-<span class="alumni-role">MS</span>
+<span class="alumni-role">Undergrad</span>
 <span class="alumni-next"><i class="fas fa-arrow-right"></i> PhD at Rice University</span>
 </div>
 <div class="alumni-card">
