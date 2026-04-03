@@ -1,34 +1,48 @@
 ---
-title: "InfiniAI Lab - Blog"
-layout: publications
-excerpt: "InfiniAI Lab -- Blog."
+title: "InfiniAI Lab - Publications"
+layout: gridlay
+excerpt: "InfiniAI Lab -- Publications."
 sitemap: false
 permalink: /blog/
 ---
 
-<div class="blog-header">
-<h1><i class="fas fa-flask"></i> Research Highlights</h1>
+
+# Blog
+<br>
+{% assign number_printed = 0 %}
+{% for publi in site.data.publist %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if publi.highlight == 1 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ publi.title }}</pubtit>
+  <img src="{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="93%" style="float: left" />
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.blog }}">Read More</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
+ </div>
 </div>
 
-{% for publi in site.data.publist %}
-{% if publi.highlight == 1 %}
-<div class="blog-card" markdown="0">
-<div class="blog-card-img">
-<img src="{{ site.baseurl }}/images/pubpic/{{ publi.image }}" alt="{{ publi.title }}" />
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
 </div>
-<div class="blog-card-body">
-<h3 class="blog-card-title">{{ publi.title }}</h3>
-<p class="blog-card-authors"><i class="fas fa-users"></i> {{ publi.authors }}</p>
-<p class="blog-card-desc">{{ publi.description }}</p>
-<div class="blog-card-links">
-{% if publi.link.blog %}
-<a href="{{ publi.link.blog }}" class="blog-btn blog-btn-primary"><i class="fas fa-book-open"></i> Read More</a>
 {% endif %}
-{% if publi.link.url %}
-<a href="{{ publi.link.url }}" class="blog-btn blog-btn-outline"><i class="fas fa-file-alt"></i> Paper</a>
-{% endif %}
-</div>
-</div>
-</div>
+
 {% endif %}
 {% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
