@@ -542,26 +542,26 @@ firstp {
 
 /* ===== Blog Page ===== */
 
-#blogpage .blog-header {
+.blog-header {
 	text-align: center;
 	padding: 30px 0 20px;
 	margin-bottom: 24px;
 	border-bottom: 2px solid #f0d4e4;
 }
 
-#blogpage .blog-header h1 {
+.blog-header h1 {
 	font-size: 28px;
 	font-weight: 700;
 	color: #1a1a2e;
 	margin: 0;
 }
 
-#blogpage .blog-header h1 i {
+.blog-header h1 i {
 	color: #ff69b4;
 	margin-right: 8px;
 }
 
-#blogpage .blog-entry {
+.blog-entry {
 	background: #fdf8fb;
 	border: 1px solid #f0d4e4;
 	border-left: 4px solid #ff69b4;
@@ -571,28 +571,28 @@ firstp {
 	transition: border-color 0.2s, box-shadow 0.2s;
 }
 
-#blogpage .blog-entry:hover {
+.blog-entry:hover {
 	box-shadow: 0 4px 16px rgba(255, 105, 180, 0.15);
 	border-left-color: #d63384;
 }
 
-#blogpage .blog-title {
+.blog-title {
 	font-size: 18px;
 	font-weight: 700;
 	margin: 0 0 8px 0;
 	line-height: 1.35;
 }
 
-#blogpage .blog-title a {
+.blog-title a {
 	color: #1a1a2e;
 	text-decoration: none;
 }
 
-#blogpage .blog-title a:hover {
+.blog-title a:hover {
 	color: #d63384;
 }
 
-#blogpage .blog-authors {
+.blog-authors {
 	font-size: 12px;
 	color: #888;
 	margin-bottom: 10px;
@@ -600,24 +600,24 @@ firstp {
 	border-bottom: 1px solid #f0d4e4;
 }
 
-#blogpage .blog-authors i {
+.blog-authors i {
 	color: #ff69b4;
 	margin-right: 4px;
 }
 
-#blogpage .blog-desc {
+.blog-desc {
 	font-size: 13px;
 	color: #555;
 	line-height: 1.6;
 	margin-bottom: 14px;
 }
 
-#blogpage .blog-links {
+.blog-links {
 	display: flex;
 	gap: 8px;
 }
 
-#blogpage .blog-btn {
+.blog-btn {
 	display: inline-flex;
 	align-items: center;
 	font-size: 12px;
@@ -628,29 +628,29 @@ firstp {
 	transition: all 0.2s;
 }
 
-#blogpage .blog-btn i {
+.blog-btn i {
 	margin-right: 5px;
 	font-size: 11px;
 }
 
-#blogpage .blog-btn-primary {
+.blog-btn-primary {
 	background: linear-gradient(135deg, #d63384, #ff69b4);
 	color: #fff;
 }
 
-#blogpage .blog-btn-primary:hover {
+.blog-btn-primary:hover {
 	box-shadow: 0 2px 8px rgba(255, 105, 180, 0.3);
 	color: #fff;
 	text-decoration: none;
 }
 
-#blogpage .blog-btn-outline {
+.blog-btn-outline {
 	background: transparent;
 	color: #d63384;
 	border: 1px solid #d63384;
 }
 
-#blogpage .blog-btn-outline:hover {
+.blog-btn-outline:hover {
 	background: #d63384;
 	color: #fff;
 	text-decoration: none;
