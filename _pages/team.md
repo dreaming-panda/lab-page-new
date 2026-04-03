@@ -1,105 +1,95 @@
 ---
 title: "InfiniAI Lab - Team"
-layout: gridlay
+layout: team
 excerpt: "InfiniAI Lab: Team members"
 sitemap: false
 permalink: /people/
 ---
 
-# Group Members
+<p class="team-recruiting"><i class="fas fa-bullhorn"></i> We are looking for new PhD students, Postdocs, and Master students to join the team! <a href="{{ site.baseurl }}/vacancies">See openings →</a></p>
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.baseurl }}/vacancies) **!**
+## Faculty
 
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
+<div class="team-grid">
+{% for member in site.data.team_members limit:1 %}
+<div class="member-card member-card-pi">
+<img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="member-photo member-photo-pi" />
+<div class="member-info">
+<h4 class="member-name">{{ member.name }}</h4>
+<span class="member-role member-role-pi">{{ member.info }}</span>
+<span class="member-email"><i class="fas fa-envelope"></i> {{ member.email }}</span>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
 </div>
-{% endif %}
-
 {% endfor %}
+</div>
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+## PhD Students & Postdocs
+
+<div class="team-grid">
+{% for member in site.data.team_members offset:1 %}
+{% unless member.info contains "Master" %}
+<div class="member-card">
+<img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="member-photo" />
+<div class="member-info">
+<h4 class="member-name">{{ member.name }}</h4>
+<span class="member-role">{{ member.info }}</span>
+<span class="member-email"><i class="fas fa-envelope"></i> {{ member.email }}</span>
+</div>
+</div>
+{% endunless %}
+{% endfor %}
+</div>
+
+## Master Students
+
+<div class="team-grid">
+{% for member in site.data.team_members offset:1 %}
+{% if member.info contains "Master" %}
+<div class="member-card">
+<img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="member-photo" />
+<div class="member-info">
+<h4 class="member-name">{{ member.name }}</h4>
+<span class="member-role">{{ member.info }}</span>
+<span class="member-email"><i class="fas fa-envelope"></i> {{ member.email }}</span>
+</div>
 </div>
 {% endif %}
-
-# Alumni
-<div class="row">
-<div class="col-sm-6 clearfix">
-<p><b style="font-size: 18px;">🎓 Visitors and Bachelor/Master Students and Their Next Steps</b></p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Hanshi Sun (MS)</span><br>
-➡️ Bytedance</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Jian Chen (MS)</span><br>
-➡️ PhD at UCSD</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Haoyun Chen (Undergrad)</span><br>
-➡️ PhD at Princeton University (Gap year at Sakana AI)</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Jingwei Zuo (MS)</span><br>
-➡️ PhD at Rice University</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Vashisth Tiwari (MS)</span><br>
-➡️ PhD at CMU</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Chen Li (MS)</span><br>
-➡️ PhD at CMU</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Yiying Luo (MS)</span><br>
-➡️ PhD at CMU</p>
-
-<p><span style="color:#1a73e8; font-weight:bold;">Wentao Guo (MS)</span><br>
-➡️ PhD at Princeton University</p>
-
-</div>
+{% endfor %}
 </div>
 
+## Alumni
 
+<div class="alumni-grid">
+{% for member in site.data.alumni_members %}
+<div class="alumni-card">
+<div class="alumni-name">{{ member.name }}</div>
+<div class="alumni-info">{{ member.info }}</div>
+</div>
+{% endfor %}
+</div>
+
+<div class="alumni-section-extra">
+<h4>Visitors and Undergraduate Students</h4>
+<div class="alumni-grid">
+<div class="alumni-card">
+<div class="alumni-name">Haoyun Chen</div>
+<div class="alumni-info">Undergrad → PhD at Princeton University</div>
+</div>
+<div class="alumni-card">
+<div class="alumni-name">Jingwei Zuo</div>
+<div class="alumni-info">MS → PhD at Rice University</div>
+</div>
+<div class="alumni-card">
+<div class="alumni-name">Chen Li</div>
+<div class="alumni-info">MS → PhD at CMU</div>
+</div>
+<div class="alumni-card">
+<div class="alumni-name">Yiying Luo</div>
+<div class="alumni-info">MS → PhD at CMU</div>
+</div>
+<div class="alumni-card">
+<div class="alumni-name">Wentao Guo</div>
+<div class="alumni-info">MS → PhD at Princeton University</div>
+</div>
+</div>
+</div>
