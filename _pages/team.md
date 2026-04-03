@@ -72,22 +72,15 @@ permalink: /people/
 
 # Alumni
 
-<div class="alumni-container">
-<table class="alumni-table">
-<thead>
-<tr><th>Name</th><th>Role</th><th>Next Step</th></tr>
-</thead>
-<tbody>
-<tr><td>Hanshi Sun</td><td>MS</td><td>Bytedance</td></tr>
-<tr><td>Jian Chen</td><td>MS</td><td>PhD at UCSD</td></tr>
-<tr><td>Haoyun Qin</td><td>Undergrad</td><td>PhD at Princeton University</td></tr>
-<tr><td>Jingwei Zuo</td><td>MS</td><td>PhD at Rice University</td></tr>
-<tr><td>Vashisth Tiwari</td><td>MS</td><td>PhD at CMU</td></tr>
-<tr><td>Chen Li</td><td>MS</td><td>PhD at CMU</td></tr>
-<tr><td>Yiying Luo</td><td>MS</td><td>PhD at CMU</td></tr>
-<tr><td>Wentao Guo</td><td>MS</td><td>PhD at Princeton University</td></tr>
-</tbody>
-</table>
+<div class="alumni-grid">
+<div class="alumni-card"><span class="alumni-name">Hanshi Sun</span><span class="alumni-role">MS</span><span class="alumni-next"><i class="fas fa-arrow-right"></i> Bytedance</span></div>
+<div class="alumni-card"><span class="alumni-name">Jian Chen</span><span class="alumni-role">MS</span><span class="alumni-next"><i class="fas fa-arrow-right"></i> PhD at UCSD</span></div>
+<div class="alumni-card"><span class="alumni-name">Haoyun Qin</span><span class="alumni-role">Undergrad</span><span class="alumni-next"><i class="fas fa-arrow-right"></i> PhD at Princeton University</span></div>
+<div class="alumni-card"><span class="alumni-name">Jingwei Zuo</span><span class="alumni-role">MS</span><span class="alumni-next"><i class="fas fa-arrow-right"></i> PhD at Rice University</span></div>
+<div class="alumni-card"><span class="alumni-name">Vashisth Tiwari</span><span class="alumni-role">MS</span><span class="alumni-next"><i class="fas fa-arrow-right"></i> PhD at CMU</span></div>
+<div class="alumni-card"><span class="alumni-name">Chen Li</span><span class="alumni-role">MS</span><span class="alumni-next"><i class="fas fa-arrow-right"></i> PhD at CMU</span></div>
+<div class="alumni-card"><span class="alumni-name">Yiying Luo</span><span class="alumni-role">MS</span><span class="alumni-next"><i class="fas fa-arrow-right"></i> PhD at CMU</span></div>
+<div class="alumni-card"><span class="alumni-name">Wentao Guo</span><span class="alumni-role">MS</span><span class="alumni-next"><i class="fas fa-arrow-right"></i> PhD at Princeton University</span></div>
 </div>
 
 
