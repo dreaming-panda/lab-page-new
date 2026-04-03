@@ -12,13 +12,11 @@ permalink: /
 Her research focuses on efficient AI; specifically, she designs and optimizes algorithms on current hardware to accelerate large machine learning systems. Her work has won best paper runner-up at ICML 2022 and best paper award at MICRO 2025. She has been recognized as a Rising Star in EECS by MIT and UIUC and is a recipient of the Google ML and Systems Junior Faculty Award as well as the Google Research Scholar Award.
 
 ### Research
-<div>
-  InfiniAI lab's research focuses on developing <em>efficient</em> and <em>scalable</em> AI algorithms and systems. Our key areas of focus include:
-  <ul>
-    <li style="margin-bottom: 10px;"><i class="fas fa-brain" style="color: #008000"></i> Long-context Multimodal Modeling and Generation</li>
-    <li style="margin-bottom: 10px;"><i class="fas fa-cogs" style="color: #808000"></i> Next-Gen Model Architecture beyond Current Scaling Law</li>
-    <li style="margin-bottom: 10px;"><i class="bi bi-robot"  style="color: #000080"></i> Foundation Model Understanding & Reasoning Enhancement</li>
-    <li style="margin-bottom: 10px;"><i class="bi bi-globe-asia-australia" style="color: #6495ED"></i> Democratized AI with Efficient Algorithm, System, and Hardware</li>
-  </ul>
-</div>
-<br>
+
+InfiniAI lab's research focuses on developing *efficient* and *scalable* AI algorithms and systems. Our key areas of focus include:
+
+<ul style="list-style: none; padding-left: 0;">
+  <li style="margin-bottom: 8px; padding: 8px 12px; background: #f8f9fa; border-radius: 4px; border-left: 3px solid #008000;"><i class="fas fa-brain" style="color: #008000"></i>&nbsp; Sparse & Scaling</li>
+  <li style="margin-bottom: 8px; padding: 8px 12px; background: #f8f9fa; border-radius: 4px; border-left: 3px solid #808000;"><i class="fas fa-cogs" style="color: #808000"></i>&nbsp; Scalable Learning</li>
+  <li style="margin-bottom: 8px; padding: 8px 12px; background: #f8f9fa; border-radius: 4px; border-left: 3px solid #000080;"><i class="bi bi-gpu-card" style="color: #000080"></i>&nbsp; Hardware & System</li>
+</ul>

@@ -2,11 +2,16 @@
 layout: default
 ---
 
-  <div id="homeid" class="col-sm-8">
-        <h1>Welcome to the InfiniAI Lab</h1>
+<div class="home-hero">
+  <h1>Welcome to the InfiniAI Lab</h1>
+  <p class="hero-subtitle">Efficient and Scalable AI Systems at Carnegie Mellon University</p>
+</div>
 
-	{{ content }}
+<div class="home-content">
+  <div id="homeid" class="col-sm-7">
+    {{ content }}
   </div>
-  <div id="newsid" class="col-sm-4" >
-	{% include news.html %}
+  <div id="newsid" class="col-sm-5">
+    {% include news.html %}
   </div>
+</div>
