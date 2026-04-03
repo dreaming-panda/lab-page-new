@@ -355,7 +355,7 @@ permalink: /publications/
                 <span class="authors">
                     Chen, Zhuoming; Sadhukhan, Ranajoy; Ye, Zihao; Zhou, Yang; Zhang, Jianyu; Nolte, Niklas; Tian, Yuandong; Douze, Matthijs; Bottou, Leon; Jia, Zhihao; Chen, Beidi
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICLR 2025</span> <span class="pub-award">(Spotlight)</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICLR 2025</span> <span class="pub-award">(Spotlight)</span>            </td>
         </tr>
 
         <tr>
@@ -373,7 +373,7 @@ permalink: /publications/
                 <span class="authors">
                     Chen, Jian*; Tiwari, Vashisth*; Sadhukhan, Ranajoy*; Chen, Zhuoming; Shi, Jinyuan; Yen, Ian En-Hsu; Chen, Beidi
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICLR 2025</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICLR 2025</span>            </td>
         </tr>
 
         <tr>
@@ -391,7 +391,7 @@ permalink: /publications/
                 <span class="authors">
                     Yang, Xinyu; Chen, Tianqi; Chen, Beidi
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICLR 2025</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICLR 2025</span>            </td>
         </tr>
 
         <tr>
@@ -409,7 +409,7 @@ permalink: /publications/
                 <span class="authors">
                     Zhang, Jianyu; Niklas, Nolte; Sadhukhan, Ranajoy; Chen, Beidi; Bottou, Léon
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICLR 2025</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICLR 2025</span>            </td>
         </tr>
 
         <tr>
@@ -427,7 +427,7 @@ permalink: /publications/
                 <span class="authors">
                     Guo, Wentao; Long, Jikai; Zeng, Yimeng; Liu, Zirui; Yang, Xinyu; Ran, Yide; Gardner, Jacob R; Bastani, Osbert; De Sa, Christopher; Yu, Xiaodong; Chen, Beidi; Xu, Zhaozhuo
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICLR 2025</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICLR 2025</span>            </td>
         </tr>
 
         <tr>
@@ -445,7 +445,7 @@ permalink: /publications/
                 <span class="authors">
                     Chen, Zhuoming*; May, Avner*; Svirschevski, Ruslan*; Huang, Yuhsun; Ryabinin, Max; Jia, Zhihao; Chen, Beidi
                 </span><br />
-                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span> <span class="pub-award">(Spotlight)</span>.            </td>
+                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span> <span class="pub-award">(Spotlight)</span>            </td>
         </tr>
 
         <tr>
@@ -463,7 +463,7 @@ permalink: /publications/
                 <span class="authors">
                     Zhou, Yang; Chen, Zhuoming; Xu, Zhaozhuo; Lin, Victoria; Chen, Beidi
                 </span><br />
-                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>            </td>
         </tr>
 
         <tr>
@@ -481,7 +481,7 @@ permalink: /publications/
                 <span class="authors">
                     Yang, Xinyu; Leng, Jixuan; Guo, Geyang; Zhao, Jiawei; Nakada, Ryumei; Zhang, Linjun; Yao, Huaxiu; Chen, Beidi
                 </span><br />
-                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>            </td>
         </tr>
 
         <tr>
@@ -499,7 +499,7 @@ permalink: /publications/
                 <span class="authors">
                     Zheng, Haizhong; Bai, Xiaoyan; Chen, Beidi; Lai, Fan; Prakash, Atul
                 </span><br />
-                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span> <span class="pub-award">(Spotlight)</span>.            </td>
+                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span> <span class="pub-award">(Spotlight)</span>            </td>
         </tr>
 
         <tr>
@@ -517,7 +517,7 @@ permalink: /publications/
                 <span class="authors">
                     Svirschevski, Ruslan*; May, Avner*; Chen, Zhuoming*; Chen, Beidi; Jia, Zhihao; Ryabinin, Max
                 </span><br />
-                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>            </td>
         </tr>
 
         <tr>
@@ -535,7 +535,7 @@ permalink: /publications/
                 <span class="authors">
                     Ma, Xuezhe; Yang, Xiaomeng; Xiong, Wenhan; Chen, Beidi; Yu, Lili; Zhang, Hao; May, Jonathan; Zettlemoyer, Luke; Levy, Omer; Zhou, Chunting
                 </span><br />
-                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>            </td>
         </tr>
 
         <tr>
@@ -553,7 +553,7 @@ permalink: /publications/
                 <span class="authors">
                     Luo, Cheng; Zhao, Jiawei; Chen, Zhuoming; Chen, Beidi; Anandkumar, Anima
                 </span><br />
-                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>            </td>
         </tr>
 
         <tr>
@@ -571,7 +571,7 @@ permalink: /publications/
                 <span class="authors">
                     Li, Minghan; Chen, Xilun; Holtzman, Ari; Chen, Beidi; Lin, Jimmy; Yih, Wen-tau; Lin, Xi Victoria
                 </span><br />
-                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>            </td>
         </tr>
 
         <tr>
@@ -589,7 +589,7 @@ permalink: /publications/
                 <span class="authors">
                     Li, Alexander, Cong; Tian, Yuandong; Chen, Beidi; Pathak, Deepak; Chen, Xinlei
                 </span><br />
-                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>            </td>
         </tr>
 
         <tr>
@@ -607,7 +607,7 @@ permalink: /publications/
                 <span class="authors">
                     Zhang, Zhenyu; Chen, Runjin; Liu, Shiwei; Yao, Zhewei; Ruwase, Olatunji; Chen, Beidi; Wu, Xiaoxia; Wang, Zhangyang
                 </span><br />
-                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>            </td>
         </tr>
 
         <tr>
@@ -659,7 +659,7 @@ permalink: /publications/
                 <span class="authors">
                     Dong, Harry; Chen, Beidi; Chi, Yuejie
                 </span><br />
-                <span class="venuetype"></span><span class="venue">COLM 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">COLM 2024</span>            </td>
         </tr>
 
         <tr>
@@ -677,7 +677,7 @@ permalink: /publications/
                 <span class="authors">
                     Zhao, Jiawei; Zhang, Zhenyu; Chen, Beidi; Wang, Zhangyang; Anandkumar, Anima; Tian, Yuandong
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICML 2024</span> <span class="pub-award">(Oral)</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICML 2024</span> <span class="pub-award">(Oral)</span>            </td>
         </tr>
 
         <tr>
@@ -695,7 +695,7 @@ permalink: /publications/
                 <span class="authors">
                     Dong, Harry; Yang, Xinyu; Zhang, Zhenyu; Wang, Zhangyang; Chi, Yuejie; Chen, Beidi
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICML 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICML 2024</span>            </td>
         </tr>
         <tr>
             <td>
@@ -712,7 +712,7 @@ permalink: /publications/
                 <span class="authors">
                     Cai, Ruisi; Tian, Yuandong; Wang, Zhangyang; Chen, Beidi
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICML 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICML 2024</span>            </td>
         </tr>
 
         <tr>
@@ -730,7 +730,7 @@ permalink: /publications/
                 <span class="authors">
                     Jiang, Youhe; Yan, Ran; Yao, Xiaozhe; Zhou, Yang; Chen, Beidi; Yuan, Binhang
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICML 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICML 2024</span>            </td>
         </tr>
 
         <tr>
@@ -748,7 +748,7 @@ permalink: /publications/
                 <span class="authors">
                     Liu, Zirui; Yuan, Jiayi; Jin, Hongye; Zhong, Shaochen; Xu, Zhaozhuo; Braverman, Vladimir; Chen, Beidi; Hu, Xia
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICML 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICML 2024</span>            </td>
         </tr>
 
         <tr>
@@ -766,7 +766,7 @@ permalink: /publications/
                 <span class="authors">
                     Xu, Zhaozhuo; Liu, Zirui; Chen, Beidi; Tang, Yuxin; Wang, Jue; Zhou, Kaixiong; Hu, Xia; Shrivastava, Anshumali
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICML 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICML 2024</span>            </td>
         </tr>
 
         <tr>
@@ -784,7 +784,7 @@ permalink: /publications/
                 <span class="authors">
                     Elhoushi, Mostafa; Shrivastava, Akshat; Liskovich, Diana; Hosmer, Basil; Wasti, Bram; Lai, Liangzhen; Mahmoud, Anas; Acun, Bilge; Agarwal, Saurabh; Roman, Ahmed
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ACL 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ACL 2024</span>            </td>
         </tr>
 
         <tr>
@@ -802,7 +802,7 @@ permalink: /publications/
                 <span class="authors">
                     Zhang, Zhenyu; Liu, Shiwei; Chen, Runjin; Kailkhura, Bhavya; Chen, Beidi; Wang, Atlas
                 </span><br />
-                <span class="venuetype"></span><span class="venue">MLSys 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">MLSys 2024</span>            </td>
         </tr>
 
         <tr>
@@ -820,7 +820,7 @@ permalink: /publications/
                 <span class="authors">
                     Xiao, Guangxuan; Tian, Yuandong; Chen, Beidi; Han, Song; Lewis, Mike
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICLR 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICLR 2024</span>            </td>
         </tr>
 
         <tr>
@@ -838,7 +838,7 @@ permalink: /publications/
                 <span class="authors">
                     Tian, Yuandong; Wang, Yiping; Zhang, Zhenyu; Chen, Beidi; Du, Simon
                 </span><br />
-                <span class="venuetype"></span><span class="venue">ICLR 2024</span>.            </td>
+                <span class="venuetype"></span><span class="venue">ICLR 2024</span>            </td>
         </tr>
 
         <tr>
@@ -856,7 +856,7 @@ permalink: /publications/
                 <span class="authors">
                     Charikar, Moses; Chen, Beidi; Ré, Christopher; Waingarten, Erik
                 </span><br />
-                <span class="venuetype"></span><span class="venue">COLT 2023</span>.            </td>
+                <span class="venuetype"></span><span class="venue">COLT 2023</span>            </td>
         </tr>
 
         <tr>
