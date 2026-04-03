@@ -303,6 +303,129 @@ firstp {
 	background-color: rgba(255, 105, 180, 0.1);
 }
 
+/* ===== Publications Page ===== */
+
+#publications {
+	padding-bottom: 40px;
+}
+
+/* Publication page header */
+.pub-header {
+	text-align: center;
+	padding: 30px 0 20px;
+	margin-bottom: 10px;
+	border-bottom: 2px solid #f0d4e4;
+}
+
+.pub-header h1 {
+	font-size: 28px;
+	font-weight: 700;
+	color: #1a1a2e;
+	margin: 0;
+}
+
+.pub-header h1 i {
+	color: #ff69b4;
+	margin-right: 8px;
+}
+
+/* Section headings (Preprints, Publications, Workshops) */
+#publications h2 {
+	font-size: 20px;
+	font-weight: 700;
+	color: #1a1a2e;
+	margin-top: 30px;
+	margin-bottom: 16px;
+	padding: 10px 16px;
+	background: linear-gradient(135deg, #1a1a2e, #16213e);
+	color: #f0f0f0;
+	border-radius: 6px;
+	border-left: 4px solid #ff69b4;
+}
+
+/* Publication table styling */
+#publications .table {
+	border-collapse: separate;
+	border-spacing: 0 8px;
+}
+
+#publications .table > tbody > tr {
+	background: #fdf8fb;
+	border: 1px solid #f0d4e4;
+	border-radius: 6px;
+	transition: box-shadow 0.2s, border-color 0.2s;
+}
+
+#publications .table > tbody > tr:hover {
+	box-shadow: 0 2px 12px rgba(255, 105, 180, 0.15);
+	border-color: #ff69b4;
+}
+
+#publications .table > tbody > tr > td {
+	border-top: none;
+	padding: 14px 16px;
+	vertical-align: top;
+}
+
+/* Date column */
+#publications .date {
+	display: block;
+	text-align: center;
+	min-width: 70px;
+	color: #6c757d;
+	font-size: 12px;
+	line-height: 1.4;
+}
+
+#publications .date big strong {
+	font-size: 18px;
+	color: #1a1a2e;
+}
+
+/* Publication title */
+#publications .pubtitle a {
+	color: #1a1a2e;
+	font-weight: 600;
+	font-size: 14px;
+	text-decoration: none;
+	transition: color 0.2s;
+}
+
+#publications .pubtitle a:hover {
+	color: #d63384;
+}
+
+#publications .pubtitle a strong {
+	font-weight: 600;
+}
+
+/* Authors */
+#publications .authors {
+	color: #666;
+	font-size: 13px;
+	line-height: 1.5;
+}
+
+/* Venue badge */
+#publications .venue {
+	display: inline-block;
+	font-size: 11px;
+	font-weight: 700;
+	color: #fff;
+	background: linear-gradient(135deg, #d63384, #ff69b4);
+	padding: 2px 10px;
+	border-radius: 12px;
+	margin-top: 4px;
+	letter-spacing: 0.3px;
+}
+
+/* Highlight awards in venue text */
+#publications .venue font[color="Red"],
+#publications .publication font[color="Red"] {
+	color: #ffdd57 !important;
+	font-weight: 700;
+}
+
 /* Team & Publications */
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
 #homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }

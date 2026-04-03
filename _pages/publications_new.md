@@ -1,18 +1,10 @@
 ---
 title: "InfiniAI Lab - Publications"
-layout: gridlay
+layout: publications
 excerpt: "InfiniAI Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
-<style>
-    table.table-pubs tr {
-        border-bottom: 2px groove #fafafa;
-    }
-    table.table-pubs .venue {
-        font-weight: bold;
-    }
-</style>
 
 ## Preprints
 <table class="table">

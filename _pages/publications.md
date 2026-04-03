@@ -1,6 +1,6 @@
 ---
 title: "InfiniAI Lab - Publications"
-layout: gridlay
+layout: publications
 excerpt: "InfiniAI Lab -- Publications."
 sitemap: false
 permalink: /publications_old/
