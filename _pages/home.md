@@ -19,13 +19,26 @@ InfiniAI lab's research focuses on developing *efficient* and *scalable* AI algo
 <div class="research-card">
 <div class="research-icon"><i class="fas fa-brain"></i></div>
 <div class="research-label">Sparse & Scaling</div>
+<div class="research-sub">Attention, KV cache, structured sparsity</div>
 </div>
 <div class="research-card">
 <div class="research-icon"><i class="fas fa-cogs"></i></div>
 <div class="research-label">Scalable Learning</div>
+<div class="research-sub">Training, fine-tuning, RL, optimization</div>
 </div>
 <div class="research-card">
 <div class="research-icon"><i class="bi bi-gpu-card"></i></div>
 <div class="research-label">Hardware & System</div>
+<div class="research-sub">Inference, speculative decoding, distributed</div>
 </div>
+</div>
+
+### Selected Highlights
+
+<div class="highlights-row" markdown="0">
+<a href="https://infini-ai-lab.github.io/Kinetics/" class="highlight-chip" target="_blank"><i class="fas fa-fire"></i> Kinetics</a>
+<a href="https://multiverse4fm.github.io/" class="highlight-chip" target="_blank"><i class="fas fa-fire"></i> Multiverse</a>
+<a href="https://www.lsh-ai.com" class="highlight-chip" target="_blank"><i class="fas fa-fire"></i> MagicPIG</a>
+<a href="https://infini-ai-lab.github.io/Sequoia-Page/" class="highlight-chip" target="_blank"><i class="fas fa-fire"></i> Sequoia</a>
+<a href="https://infini-ai-lab.github.io/TriForce/" class="highlight-chip" target="_blank"><i class="fas fa-fire"></i> TriForce</a>
 </div>
