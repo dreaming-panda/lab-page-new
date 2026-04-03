@@ -26,6 +26,10 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">Preprints</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
         </td>
     </tr>
 
@@ -46,6 +50,9 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">Preprints</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
         </td>
     </tr>
         
@@ -66,6 +73,9 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">Preprints</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
         </td>
     </tr>
 
@@ -86,6 +96,10 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">Preprints</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
         </td>
     </tr>
 
@@ -106,6 +120,9 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">Preprints</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
         </td>
     </tr>
 </tbody>
@@ -131,6 +148,10 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">ICLR 2026</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
         </td>
     </tr>
         <tr>
@@ -150,6 +171,9 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">ICLR 2026</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
         </td>
     </tr>
     <tr>
@@ -169,6 +193,9 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">ICLR 2026</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
         </td>
     </tr>
         <tr>
@@ -187,6 +214,10 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">NSDI 2026</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
           </td>
         </tr>
         
@@ -206,6 +237,9 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">ASPLOS 2026</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
           </td>
         </tr>
         
@@ -226,6 +260,9 @@ permalink: /publications/
             <span class="venuetype"></span><span class="venue">Micro 2025</span>
             <span style="color:red; font-weight:bold;">(Best Paper Award)</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
           </td>
         </tr>
         <tr>
@@ -245,6 +282,10 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">ICLR 2026</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
         </td>
     </tr>
         <tr>
@@ -263,6 +304,9 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">NeurIPS 2025</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
           </td>
         </tr>
         <tr>
@@ -281,6 +325,9 @@ permalink: /publications/
             </span><br />
             <span class="venuetype"></span><span class="venue">NeurIPS 2025</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
           </td>
         </tr>
         
@@ -301,6 +348,10 @@ permalink: /publications/
             <span class="venuetype"></span><span class="venue">NeurIPS 2025</span>
             <span style="color:red; font-weight:bold;">(Spotlight)</span>
             <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
           </td>
         </tr>
         <tr>
@@ -321,6 +372,10 @@ permalink: /publications/
                 <span class="venuetype"></span><span class="venue">ICML 2025</span>
                 <span style="color:red; font-weight:bold;">(Spotlight/Oral)</span> 
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
         <tr>
@@ -340,6 +395,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICML 2025</span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
         <tr>
@@ -359,6 +417,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICML 2025</span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
         <tr>
@@ -378,6 +440,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICLR 2025</span>
                 <span style="color:red; font-weight:bold;">(Spotlight)</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -397,6 +463,9 @@ permalink: /publications/
                     Chen, Jian*; Tiwari, Vashisth*; Sadhukhan, Ranajoy*; Chen, Zhuoming; Shi, Jinyuan; Yen, Ian En-Hsu; Chen, Beidi
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICLR 2025</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -416,6 +485,10 @@ permalink: /publications/
                     Yang, Xinyu; Chen, Tianqi; Chen, Beidi
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICLR 2025</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -435,6 +508,10 @@ permalink: /publications/
                     Zhang, Jianyu; Niklas, Nolte; Sadhukhan, Ranajoy; Chen, Beidi; Bottou, Léon
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICLR 2025</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -454,6 +531,10 @@ permalink: /publications/
                     Guo, Wentao; Long, Jikai; Zeng, Yimeng; Liu, Zirui; Yang, Xinyu; Ran, Yide; Gardner, Jacob R; Bastani, Osbert; De Sa, Christopher; Yu, Xiaodong; Chen, Beidi; Xu, Zhaozhuo
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICLR 2025</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -474,6 +555,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>
                 <span style="color:red; font-weight:bold;">(Spotlight)</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -493,6 +577,10 @@ permalink: /publications/
                     Zhou, Yang; Chen, Zhuoming; Xu, Zhaozhuo; Lin, Victoria; Chen, Beidi
                 </span><br />
                 <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -512,6 +600,10 @@ permalink: /publications/
                     Yang, Xinyu; Leng, Jixuan; Guo, Geyang; Zhao, Jiawei; Nakada, Ryumei; Zhang, Linjun; Yao, Huaxiu; Chen, Beidi
                 </span><br />
                 <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -532,6 +624,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>
                 <span style="color:red; font-weight:bold;">(Spotlight)</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+</div>
             </td>
         </tr>
 
@@ -551,6 +646,9 @@ permalink: /publications/
                     Svirschevski, Ruslan*; May, Avner*; Chen, Zhuoming*; Chen, Beidi; Jia, Zhihao; Ryabinin, Max
                 </span><br />
                 <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -570,6 +668,10 @@ permalink: /publications/
                     Ma, Xuezhe; Yang, Xiaomeng; Xiong, Wenhan; Chen, Beidi; Yu, Lili; Zhang, Hao; May, Jonathan; Zettlemoyer, Luke; Levy, Omer; Zhou, Chunting
                 </span><br />
                 <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -589,6 +691,9 @@ permalink: /publications/
                     Luo, Cheng; Zhao, Jiawei; Chen, Zhuoming; Chen, Beidi; Anandkumar, Anima
                 </span><br />
                 <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -608,6 +713,9 @@ permalink: /publications/
                     Li, Minghan; Chen, Xilun; Holtzman, Ari; Chen, Beidi; Lin, Jimmy; Yih, Wen-tau; Lin, Xi Victoria
                 </span><br />
                 <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -627,6 +735,9 @@ permalink: /publications/
                     Li, Alexander, Cong; Tian, Yuandong; Chen, Beidi; Pathak, Deepak; Chen, Xinlei
                 </span><br />
                 <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -646,6 +757,10 @@ permalink: /publications/
                     Zhang, Zhenyu; Chen, Runjin; Liu, Shiwei; Yao, Zhewei; Ruwase, Olatunji; Chen, Beidi; Wu, Xiaoxia; Wang, Zhangyang
                 </span><br />
                 <span class="venuetype"></span><span class="venue">NeurIPS 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -681,6 +796,10 @@ permalink: /publications/
                     <span style="position: relative; top: 1px; margin-left: 3px;">Code</span>
                 </a>
 
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -700,6 +819,10 @@ permalink: /publications/
                     Dong, Harry; Chen, Beidi; Chi, Yuejie
                 </span><br />
                 <span class="venuetype"></span><span class="venue">COLM 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -720,6 +843,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICML 2024</span>
                 <span style="color:red; font-weight:bold;">(Oral)</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -739,6 +866,10 @@ permalink: /publications/
                     Dong, Harry; Yang, Xinyu; Zhang, Zhenyu; Wang, Zhangyang; Chi, Yuejie; Chen, Beidi
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICML 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
         <tr>
@@ -757,6 +888,9 @@ permalink: /publications/
                     Cai, Ruisi; Tian, Yuandong; Wang, Zhangyang; Chen, Beidi
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICML 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+</div>
             </td>
         </tr>
 
@@ -776,6 +910,9 @@ permalink: /publications/
                     Jiang, Youhe; Yan, Ran; Yao, Xiaozhe; Zhou, Yang; Chen, Beidi; Yuan, Binhang
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICML 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -795,6 +932,10 @@ permalink: /publications/
                     Liu, Zirui; Yuan, Jiayi; Jin, Hongye; Zhong, Shaochen; Xu, Zhaozhuo; Braverman, Vladimir; Chen, Beidi; Hu, Xia
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICML 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -814,6 +955,10 @@ permalink: /publications/
                     Xu, Zhaozhuo; Liu, Zirui; Chen, Beidi; Tang, Yuxin; Wang, Jue; Zhou, Kaixiong; Hu, Xia; Shrivastava, Anshumali
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICML 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -833,6 +978,10 @@ permalink: /publications/
                     Elhoushi, Mostafa; Shrivastava, Akshat; Liskovich, Diana; Hosmer, Basil; Wasti, Bram; Lai, Liangzhen; Mahmoud, Anas; Acun, Bilge; Agarwal, Saurabh; Roman, Ahmed
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ACL 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -852,6 +1001,10 @@ permalink: /publications/
                     Zhang, Zhenyu; Liu, Shiwei; Chen, Runjin; Kailkhura, Bhavya; Chen, Beidi; Wang, Atlas
                 </span><br />
                 <span class="venuetype"></span><span class="venue">MLSys 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -871,6 +1024,10 @@ permalink: /publications/
                     Xiao, Guangxuan; Tian, Yuandong; Chen, Beidi; Han, Song; Lewis, Mike
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICLR 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -890,6 +1047,9 @@ permalink: /publications/
                     Tian, Yuandong; Wang, Yiping; Zhang, Zhenyu; Chen, Beidi; Du, Simon
                 </span><br />
                 <span class="venuetype"></span><span class="venue">ICLR 2024</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -909,6 +1069,9 @@ permalink: /publications/
                     Charikar, Moses; Chen, Beidi; Ré, Christopher; Waingarten, Erik
                 </span><br />
                 <span class="venuetype"></span><span class="venue">COLT 2023</span>.
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -929,6 +1092,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>NeurIPS 2023</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -949,6 +1116,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>NeurIPS 2023</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -969,6 +1139,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>NeurIPS 2023</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -989,6 +1163,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>ICML 2023</strong> <span style="color:red; font-weight:bold;">(Oral)</span></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -1009,6 +1187,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>ICML 2023</strong> <span style="color:red; font-weight:bold;">(Oral)</span></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -1029,6 +1210,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>ICML 2023</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
         <tr>
@@ -1048,6 +1233,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>NeurIPS 2022</strong> <span style="color:red; font-weight:bold;">(Oral)</span></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -1068,6 +1257,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>NeurIPS 2022</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -1088,6 +1281,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>ICML 2022</strong> <span style="color:red; font-weight:bold;">(Outstanding Paper Runner Up)</span></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -1108,6 +1305,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>ICLR 2022</strong> <span style="color:red; font-weight:bold;">(Spotlight)</span></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -1128,6 +1329,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>MLSys 2022</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
         <tr>
@@ -1147,6 +1352,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>NeurIPS 2021</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+</div>
             </td>
         </tr>
 
@@ -1167,6 +1375,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>NeurIPS 2021</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -1187,6 +1398,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>ICML 2021</strong> <span style="color:red; font-weight:bold;">(Oral)</span></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -1207,6 +1421,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>ICLR 2021</strong> <span style="color:red; font-weight:bold;">(Oral)</span></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -1227,6 +1445,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>ICLR 2021</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+</div>
             </td>
         </tr>
 
@@ -1247,6 +1468,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>JSM 2021</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
         <tr>
@@ -1266,6 +1490,10 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>MLSys 2020</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 
@@ -1286,6 +1514,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>ICML 2020</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -1306,6 +1537,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>NeurIPS 2019</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -1326,6 +1560,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>UAI 2018</strong></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-sparse"><i class="fas fa-brain"></i> Sparse</span>
+</div>
             </td>
         </tr>
 
@@ -1346,6 +1583,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>The Annals of Applied Statistics</strong> <span style="color:red; font-weight:bold;">(IISA 2018 Best Student Paper in Applied Statistics)</span></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-learning"><i class="fas fa-cogs"></i> Learning</span>
+</div>
             </td>
         </tr>
 
@@ -1366,6 +1606,9 @@ permalink: /publications/
                 </span><br />
                 <span class="venuetype"></span><span class="venue"><strong>LISA 2014</strong> <span style="color:red; font-weight:bold;">(Best Student Paper)</span></span>
                 <br />
+<div class="pub-topics">
+<span class="topic-badge topic-system"><i class="bi bi-gpu-card"></i> System</span>
+</div>
             </td>
         </tr>
 </tbody>

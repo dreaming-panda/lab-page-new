@@ -426,6 +426,49 @@ firstp {
 	font-weight: 700;
 }
 
+/* Award spans (inline style overrides) */
+#publications span[style*="color:red"] {
+	color: #e74c3c !important;
+}
+
+/* Topic badges */
+.pub-topics {
+	margin-top: 6px;
+}
+
+.topic-badge {
+	display: inline-block;
+	font-size: 10px;
+	font-weight: 600;
+	padding: 2px 8px;
+	border-radius: 10px;
+	margin-right: 4px;
+	letter-spacing: 0.2px;
+}
+
+.topic-badge i {
+	font-size: 9px;
+	margin-right: 3px;
+}
+
+.topic-sparse {
+	background: rgba(26, 26, 46, 0.08);
+	color: #1a1a2e;
+	border: 1px solid rgba(26, 26, 46, 0.2);
+}
+
+.topic-learning {
+	background: rgba(214, 51, 132, 0.08);
+	color: #d63384;
+	border: 1px solid rgba(214, 51, 132, 0.2);
+}
+
+.topic-system {
+	background: rgba(15, 52, 96, 0.08);
+	color: #0f3460;
+	border: 1px solid rgba(15, 52, 96, 0.2);
+}
+
 /* Team & Publications */
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
 #homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
